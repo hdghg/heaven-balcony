@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T16:07:47.131Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4Uts6LWZRFouNR1PrLeK" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T16:12:24.070Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="PZ1KLk-nw0YaK72Yd_6_" version="20.8.5" type="github">
   <diagram id="Hkj4WFlvK4-08UBy-HWi" name="Page-1">
     <mxGraphModel dx="1218" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,11 +59,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1bVyddex_vhO6T4n7lc5-48" value="Floor: ?" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="1bVyddex_vhO6T4n7lc5-48" value="Floor: 1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="40" y="590" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1bVyddex_vhO6T4n7lc5-49" value="Room: 12" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="160" y="590" width="100" height="40" as="geometry" />
+        <mxCell id="1bVyddex_vhO6T4n7lc5-49" value="Room: family" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="160" y="590" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-57" value="" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=-5;labelBackgroundColor=#ffffff;fontSize=14;fillColor=#0F0F0F;" parent="1" vertex="1">
           <mxGeometry x="270" y="480" width="100" height="40" as="geometry" />
