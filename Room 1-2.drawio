@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T15:37:58.096Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="QMLdR20P09bxmAu1B9C_" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T15:44:41.877Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="6sUdAm_YJuazBdI6s1hg" version="20.8.5" type="github">
   <diagram id="Hkj4WFlvK4-08UBy-HWi" name="Page-1">
     <mxGraphModel dx="1218" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="320" y="200" width="47" height="51" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
-          <mxGeometry x="590" y="460" width="100" height="10" as="geometry" />
+          <mxGeometry x="650" y="460" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.plant;" parent="1" vertex="1">
           <mxGeometry x="320" y="302" width="47" height="51" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="320" y="353" width="47" height="51" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
-          <mxGeometry x="310" y="460" width="120" height="10" as="geometry" />
+          <mxGeometry x="360" y="460" width="120" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.plant;" parent="1" vertex="1">
           <mxGeometry x="320" y="404" width="47" height="51" as="geometry" />
@@ -35,12 +35,12 @@
           <mxGeometry x="377" y="200" width="33" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-17" value="Sea view" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="470" y="60" width="100" height="40" as="geometry" />
+          <mxGeometry x="530" y="60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-18" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="120" as="sourcePoint" />
-            <mxPoint x="510" y="230" as="targetPoint" />
+            <mxPoint x="580" y="120" as="sourcePoint" />
+            <mxPoint x="580" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-19" value="entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="1bVyddex_vhO6T4n7lc5-18" vertex="1" connectable="0">
@@ -81,7 +81,7 @@
           <mxGeometry x="330" y="720" width="47" height="51" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-31" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
-          <mxGeometry x="600" y="980" width="100" height="10" as="geometry" />
+          <mxGeometry x="660" y="980" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.plant;" parent="1" vertex="1">
           <mxGeometry x="330" y="822" width="47" height="51" as="geometry" />
@@ -93,7 +93,7 @@
           <mxGeometry x="330" y="873" width="47" height="51" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
-          <mxGeometry x="320" y="980" width="120" height="10" as="geometry" />
+          <mxGeometry x="373" y="980" width="120" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-36" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.plant;" parent="1" vertex="1">
           <mxGeometry x="330" y="924" width="47" height="51" as="geometry" />
@@ -102,12 +102,12 @@
           <mxGeometry x="387" y="720" width="33" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-38" value="Sea view" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="480" y="580" width="100" height="40" as="geometry" />
+          <mxGeometry x="540" y="580" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-39" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="640" as="sourcePoint" />
-            <mxPoint x="520" y="750" as="targetPoint" />
+            <mxPoint x="590" y="650" as="sourcePoint" />
+            <mxPoint x="590" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-40" value="entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="1bVyddex_vhO6T4n7lc5-39" vertex="1" connectable="0">
@@ -153,14 +153,8 @@
         <mxCell id="1bVyddex_vhO6T4n7lc5-49" value="Room: 2" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="160" y="520" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1bVyddex_vhO6T4n7lc5-51" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="373" y="660" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1bVyddex_vhO6T4n7lc5-52" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="360" y="130" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-57" value="" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=-5;labelBackgroundColor=#ffffff;fontSize=14;fillColor=#0F0F0F;" parent="1" vertex="1">
-          <mxGeometry x="380" y="470" width="50" height="40" as="geometry" />
+          <mxGeometry x="380" y="470" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1bVyddex_vhO6T4n7lc5-58" value="" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=left;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff;fillColor=#0F0F0F;" parent="1" vertex="1">
           <mxGeometry x="260" y="240" width="120" height="220" as="geometry" />
